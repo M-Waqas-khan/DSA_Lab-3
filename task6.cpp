@@ -38,6 +38,7 @@ int main()
     for (int i = 0; i < size; i++) 
     {
         cout<<factorial(arr[i])<<" ";
+        
     }
     return 0;
 }
